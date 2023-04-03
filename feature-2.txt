@@ -1,1 +1,3 @@
 It is my second feature file
+
+dev2 added some changes
